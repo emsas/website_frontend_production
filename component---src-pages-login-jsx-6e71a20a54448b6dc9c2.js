@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[18],{"7Qib":function(n,t,e){"use strict";e.d(t,"a",(function(){return i})),e.d(t,"b",(function(){return u}));var i="en",u="es"},ahTi:function(n,t,e){"use strict";e.r(t);var i=e("q1tI"),u=e.n(i);e("7Qib");t.default=function(){return u.a.createElement("p",null,"Login")}}}]);
+//# sourceMappingURL=component---src-pages-login-jsx-6e71a20a54448b6dc9c2.js.map

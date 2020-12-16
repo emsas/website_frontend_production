@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/es/404.jsx"],"names":["NotFound"],"mappings":"2FAAA,gCAKeA,UAHf,WACE,OAAO","file":"component---src-pages-es-404-jsx-03640911c8c1940ecec0.js","sourcesContent":["import React from \"react\"\n\nfunction NotFound() {\n  return <p>No se consiguio</p>\n}\nexport default NotFound\n"],"sourceRoot":""}

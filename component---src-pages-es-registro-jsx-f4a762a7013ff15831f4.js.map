@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/es/registro.jsx"],"names":[],"mappings":"4FAAA,gCAEe,qBACb,OAAO","file":"component---src-pages-es-registro-jsx-f4a762a7013ff15831f4.js","sourcesContent":["import React from \"react\"\n\nexport default function () {\n  return <p>Registro</p>\n}\n"],"sourceRoot":""}

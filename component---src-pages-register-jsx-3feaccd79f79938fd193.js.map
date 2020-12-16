@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack:///./src/pages/register.jsx"],"names":[],"mappings":"4FAAA,gCAEe,qBACb,OAAO","file":"component---src-pages-register-jsx-3feaccd79f79938fd193.js","sourcesContent":["import React from \"react\"\n\nexport default function () {\n  return <p>Register</p>\n}\n"],"sourceRoot":""}

@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[10],{fBQ9:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),u=a.n(t),l=a("I/Ru"),r=a("7Qib");n.default=function(){return u.a.createElement(u.a.Fragment,null,u.a.createElement(l.a,{language:r.b,type:"business"},u.a.createElement("p",null,"Hola")))}}}]);
+//# sourceMappingURL=component---src-pages-es-empresarial-jsx-566a665b2c26d90cecec.js.map

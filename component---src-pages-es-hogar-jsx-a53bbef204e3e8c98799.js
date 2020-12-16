@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[11],{gJiZ:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),l=a.n(t),u=a("I/Ru"),r=a("7Qib");n.default=function(){return l.a.createElement(l.a.Fragment,null,l.a.createElement(u.a,{language:r.b,type:"home"},l.a.createElement("p",null,"Hola")))}}}]);
+//# sourceMappingURL=component---src-pages-es-hogar-jsx-a53bbef204e3e8c98799.js.map

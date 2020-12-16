@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[14],{Eo3W:function(e,n,a){"use strict";a.r(n);var t=a("q1tI"),u=a.n(t),l=a("I/Ru"),r=a("7Qib");n.default=function(){return u.a.createElement(u.a.Fragment,null,u.a.createElement(l.a,{language:r.b,type:"product"},u.a.createElement("p",null,"Hola")))}}}]);
+//# sourceMappingURL=component---src-pages-es-productos-jsx-b27dfc166271428b9f4e.js.map

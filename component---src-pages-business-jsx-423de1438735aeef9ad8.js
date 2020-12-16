@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[6],{Mqas:function(e,a,n){"use strict";n.r(a);var t=n("q1tI"),u=n.n(t),l=n("I/Ru"),r=n("7Qib");a.default=function(){return u.a.createElement(u.a.Fragment,null,u.a.createElement(l.a,{language:r.a,type:"business"},u.a.createElement("p",null,"Hola")))}}}]);
+//# sourceMappingURL=component---src-pages-business-jsx-423de1438735aeef9ad8.js.map

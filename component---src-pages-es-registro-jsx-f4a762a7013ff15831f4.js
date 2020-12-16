@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[15],{dfme:function(n,e,t){"use strict";t.r(e);var o=t("q1tI"),r=t.n(o);e.default=function(){return r.a.createElement("p",null,"Registro")}}}]);
+//# sourceMappingURL=component---src-pages-es-registro-jsx-f4a762a7013ff15831f4.js.map

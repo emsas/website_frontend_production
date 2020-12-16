@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[13],{"7Qib":function(n,t,e){"use strict";e.d(t,"a",(function(){return r})),e.d(t,"b",(function(){return u}));var r="en",u="es"},sk9C:function(n,t,e){"use strict";e.r(t);var r=e("q1tI"),u=e.n(r);e("7Qib");t.default=function(){return u.a.createElement("p",null,"Ingreso")}}}]);
+//# sourceMappingURL=component---src-pages-es-ingreso-jsx-be410f2e25bfafb529ad.js.map
